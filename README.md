@@ -8,7 +8,6 @@ Brink is a custom built Object-relational mapping tool created to simplify the p
 * PostgreSQL - version 42.2.12  
 * Java - version 8.0  
 * Apache commons - version 2.1  
-* JUnit
 
 ## Features
 
