@@ -15,6 +15,7 @@ List of features ready and TODOs for future development
 * User API that allows for ease of use.
 * Bypass need for database specific language 
 * Annotation based
+* Logging of processes
 
 To-do list: [`for future iterations`]
 * Allow ORM to create Join Tables based on Annotation in Entities    
