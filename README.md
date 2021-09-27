@@ -17,7 +17,7 @@ List of features ready and TODOs for future development
 * Annotation based
 * Logging of processes
 
-To-do list: [`for future iterations`]
+To-do list:
 * Allow ORM to create Join Tables based on Annotation in Entities    
 * Allow ORM to set table constraints in Annotations 
 
