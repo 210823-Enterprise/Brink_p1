@@ -13,14 +13,13 @@ Brink is a custom built Object-relational mapping tool created to simplify the p
 ## Features
 
 List of features ready and TODOs for future development  
-* Easy to use and straightforward user API.  
-* No need for SQL, HQL, or any databse specific language.  
-* Straightforward and simple Annotation based for ease of use. 
+* User API that allows for ease of use.
+* Bypass need for database specific language 
+* Annotation based
 
 To-do list: [`for future iterations`]
-* Allow ORM to create Join Tables based on Annotation in Entities   
-* Implement of aggregate functions.  
-* Allow ORM to build table based on Annotations in Entities.  
+* Allow ORM to create Join Tables based on Annotation in Entities    
+* Allow ORM to set table constraints in Annotations 
 
 ## Getting Started  
 Currently project must be included as local dependency. to do so:
@@ -53,12 +52,12 @@ password=postgres
    - #### @Table(name = "table_name)  
       - Indicates that this class is associated with table 'table_name' 
    - #### @Id(columnName="test_id")  
-      - Indicates that the Annotated field is ID for the column in the table with the name 'test_id'   
-   - #### @Column(name = "column_name)  
-      - Indicates that the Annotated field is a column in the table with the name 'column_name'  
-   - #### @Column(columnName="movie_title", columnType="[`insert data type`]") 
+      - Indicates that the Annotated field is ID for the column in the table with the name 'test_id'    
+   - #### @Column(columnName="column_name", columnType="[`insert sql data type`]") 
       - Indicates that the Annotated field is a column in the table with the name 'column_name' of a specified data type
-
+   - #### @Entity(table_name = "name of the table")
+      -Indicates that the annotated class contains data for a database interaction.
+    
   ### User API  
   - #### `public static DIYORM getInstance()`  
      - Returns the singleton instance of the class. It is the starting point to calling any of the below methods.
