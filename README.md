@@ -49,8 +49,7 @@ password=postgres
 ## Usage  
   ### Annotating classes  
   All classes which represent objects in database must be annotated.
-   - #### @Table(name = "table_name)  
-      - Indicates that this class is associated with table 'table_name' 
+
    - #### @Id(columnName="test_id")  
       - Indicates that the Annotated field is ID for the column in the table with the name 'test_id'    
    - #### @Column(columnName="column_name", columnType="[`insert sql data type`]") 
