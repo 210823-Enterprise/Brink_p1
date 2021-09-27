@@ -1,0 +1,2 @@
+2021-09-26 16:51:52 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 16:52:42 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database

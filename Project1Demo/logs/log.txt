@@ -1,0 +1,506 @@
+2021-09-26 16:04:17 WARN  revature.objectmapper.TableCreate:39 - Could not add table to the database
+2021-09-26 16:38:36 WARN  revature.objectmapper.TableCreate:39 - Could not add table to the database
+2021-09-26 16:45:36 WARN  revature.objectmapper.TableCreate:39 - Could not add table to the database
+2021-09-26 16:47:23 WARN  revature.objectmapper.TableCreate:39 - Could not add table to the database
+2021-09-26 16:54:06 WARN  revature.objectmapper.TableCreate:39 - Could not add table to the database
+2021-09-26 16:55:02 WARN  revature.objectmapper.TableCreate:39 - Could not add table to the database
+2021-09-26 16:56:48 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 17:29:17 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 17:29:25 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 17:33:41 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:33:41 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:33:41 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:34:10 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 17:34:22 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 17:35:09 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 17:35:14 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:35:14 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:35:14 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:35:14 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:36:06 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:36:06 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:36:06 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:36:06 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:42:45 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:42:45 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:42:48 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:42:48 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 17:42:53 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:42:53 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:42:53 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:42:53 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:43:06 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 17:43:06 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:43:06 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:43:06 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
+2021-09-26 17:43:06 WARN  revature.objectmapper.ObjectCache:69 - Could not update object from the local cache.
+2021-09-26 17:43:06 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 17:43:11 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 17:44:15 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 17:44:18 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 17:44:21 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:44:21 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:44:21 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:44:27 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:44:27 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:44:27 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:44:27 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:44:27 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 17:44:27 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:44:27 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 17:44:27 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 17:44:30 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:44:30 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:44:55 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:44:55 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:44:55 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:45:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:45:02 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:45:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:45:02 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:45:02 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 17:45:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:45:02 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 17:45:02 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 17:45:03 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:45:03 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:45:03 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:45:19 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 17:46:28 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:46:28 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:46:28 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:46:28 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:46:31 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:46:31 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:46:31 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:46:44 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 17:46:46 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:46:46 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:46:46 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:46:46 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:46:59 WARN  revature.objectmapper.ObjectGetter:85 - Unable to retrieve object with primary key 4 from the database. Error: org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-09-26 17:53:21 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 17:53:27 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 17:53:55 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 17:53:57 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:53:57 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:53:57 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:53:57 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:54:07 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:54:07 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:54:07 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 17:54:09 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:54:09 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 17:54:09 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 17:54:36 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:54:36 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:54:36 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:54:36 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:56:39 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:56:39 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:56:39 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:56:39 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 17:56:39 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 17:56:39 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:56:39 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 17:56:39 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 17:56:50 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:56:50 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:56:50 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:56:50 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:57:10 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:57:10 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 17:57:11 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:57:11 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 17:57:11 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 17:57:11 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:57:11 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 17:57:11 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 2 in the database.
+2021-09-26 17:57:14 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:57:14 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:57:14 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:57:14 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 17:57:23 INFO  revature.objectmapper.ObjectGetter:39 - Successfully deleted object with id 2 from the database.
+2021-09-26 17:57:23 INFO  revature.objectmapper.ObjectGetter:40 - Successfully deleted object with id 2 from local cache.
+2021-09-26 17:57:23 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 17:57:24 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 17:57:24 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 17:57:24 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 19:34:59 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 19:35:09 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:38:31 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:38:57 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:38:57 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:38:57 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:38:57 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:39:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:39:02 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:39:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:39:02 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:39:18 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:39:18 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:39:18 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 19:39:18 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 19:39:31 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 19:39:31 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:39:31 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:39:31 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
+2021-09-26 19:39:31 WARN  revature.objectmapper.ObjectCache:69 - Could not update object from the local cache.
+2021-09-26 19:39:31 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 19:42:09 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:42:09 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:42:09 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 19:42:09 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 19:42:17 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:42:17 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:42:18 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:42:18 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:42:18 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 19:42:18 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:42:18 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 19:42:18 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 2 in the database.
+2021-09-26 19:42:28 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:42:28 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:42:28 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 19:42:28 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 19:42:58 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 19:43:01 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:43:26 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:43:26 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:43:26 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:43:26 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:43:26 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 19:43:26 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:43:26 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 19:43:26 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 19:43:28 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:43:28 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 19:43:28 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 19:43:50 INFO  revature.objectmapper.ObjectGetter:39 - Successfully deleted object with id 1 from the database.
+2021-09-26 19:43:50 INFO  revature.objectmapper.ObjectGetter:40 - Successfully deleted object with id 1 from local cache.
+2021-09-26 19:43:50 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 19:44:10 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 19:44:14 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:44:27 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:44:37 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:44:37 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:44:37 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:44:37 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:44:39 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:44:39 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:44:39 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:44:39 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:44:41 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:44:41 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:44:41 INFO  revature.objectmapper.ObjectGetter:155 - Succsessfully added all objects from DB into local cache.
+2021-09-26 19:44:41 INFO  revature.objectmapper.ObjectGetter:156 - Succsessfully retrieved objects from the database.
+2021-09-26 19:44:47 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 19:44:47 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:44:47 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:44:47 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
+2021-09-26 19:44:47 WARN  revature.objectmapper.ObjectCache:69 - Could not update object from the local cache.
+2021-09-26 19:44:47 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 19:45:39 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 19:45:42 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:45:50 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:45:57 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:45:57 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:45:58 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:45:58 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:45:58 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 19:45:58 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:45:58 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 19:45:58 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 2 in the database.
+2021-09-26 19:46:07 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:46:07 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:46:07 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:46:07 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:46:07 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 19:46:07 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:46:07 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 19:46:07 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 19:47:00 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 19:47:08 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:47:29 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:47:36 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:47:36 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:47:36 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:47:36 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:47:39 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:47:39 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:47:39 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:47:39 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:47:57 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 19:47:57 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:47:57 INFO  revature.objectmapper.ObjectGetter:81 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:47:57 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
+2021-09-26 19:47:57 WARN  revature.objectmapper.ObjectCache:69 - Could not update object from the local cache.
+2021-09-26 19:47:57 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 19:59:30 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 19:59:32 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:59:39 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 19:59:41 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:59:41 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 19:59:41 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:59:41 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:59:41 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 19:59:41 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:59:43 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:59:43 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 2 to the cache.
+2021-09-26 19:59:43 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:59:43 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:59:43 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 2 to the cache.
+2021-09-26 19:59:43 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 19:59:47 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 19:59:47 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 19:59:47 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 19:59:47 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 19:59:47 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
+2021-09-26 19:59:47 WARN  revature.objectmapper.ObjectCache:69 - Could not update object from the local cache.
+2021-09-26 19:59:47 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 20:00:03 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:00:03 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:00:06 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:00:06 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:05:27 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:05:34 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:05:44 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 20:06:02 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 2 to the cache.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 2 to the cache.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 20:06:13 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 2 in the database.
+2021-09-26 20:06:28 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:06:28 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:06:42 INFO  revature.objectmapper.ObjectGetter:164 - Succsessfully added all objects from DB into local cache.
+2021-09-26 20:06:42 INFO  revature.objectmapper.ObjectGetter:165 - Succsessfully retrieved objects from the database.
+2021-09-26 20:06:50 INFO  revature.objectmapper.ObjectGetter:164 - Succsessfully added all objects from DB into local cache.
+2021-09-26 20:06:50 INFO  revature.objectmapper.ObjectGetter:165 - Succsessfully retrieved objects from the database.
+2021-09-26 20:06:54 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:06:54 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:06:56 INFO  revature.objectmapper.ObjectGetter:164 - Succsessfully added all objects from DB into local cache.
+2021-09-26 20:06:56 INFO  revature.objectmapper.ObjectGetter:165 - Succsessfully retrieved objects from the database.
+2021-09-26 20:07:09 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:07:12 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:07:14 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:07:14 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:07:14 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:07:14 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:07:14 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:07:14 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:07:36 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:07:40 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:07:40 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:07:57 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:07:57 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 2 to the cache.
+2021-09-26 20:07:57 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:07:57 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:07:57 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 2 to the cache.
+2021-09-26 20:07:57 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:08:00 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:08:00 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:08:03 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:08:03 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:08:10 INFO  revature.objectmapper.ObjectGetter:164 - Succsessfully added all objects from DB into local cache.
+2021-09-26 20:08:10 INFO  revature.objectmapper.ObjectGetter:165 - Succsessfully retrieved objects from the database.
+2021-09-26 20:08:14 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:08:14 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:08:28 INFO  revature.objectmapper.ObjectGetter:164 - Succsessfully added all objects from DB into local cache.
+2021-09-26 20:08:28 INFO  revature.objectmapper.ObjectGetter:165 - Succsessfully retrieved objects from the database.
+2021-09-26 20:08:34 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:08:34 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:08:36 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:08:36 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:09:08 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:09:15 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:09:20 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:09:20 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:09:20 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:09:20 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:09:20 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:09:20 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:09:33 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:09:40 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:09:40 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:09:40 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:09:40 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:09:40 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
+2021-09-26 20:09:40 WARN  revature.objectmapper.ObjectCache:69 - Could not update object from the local cache.
+2021-09-26 20:09:40 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 20:11:50 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:11:53 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:11:59 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:12:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:12:02 INFO  revature.objectmapper.ObjectGetter:159 - Added object to the cache.
+2021-09-26 20:12:02 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:12:02 INFO  revature.objectmapper.ObjectGetter:159 - Added object to the cache.
+2021-09-26 20:12:02 INFO  revature.objectmapper.ObjectGetter:164 - Succsessfully added all objects from DB into local cache.
+2021-09-26 20:12:02 INFO  revature.objectmapper.ObjectGetter:165 - Succsessfully retrieved objects from the database.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 20:12:11 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 20:12:19 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:12:19 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:12:28 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:12:28 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:12:28 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:12:28 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:12:28 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
+2021-09-26 20:12:28 WARN  revature.objectmapper.ObjectCache:69 - Could not update object from the local cache.
+2021-09-26 20:12:28 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 20:13:12 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:13:25 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:13:31 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:13:31 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:13:31 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:13:31 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:13:31 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:13:31 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:13:46 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 2 to the cache.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 2 to the cache.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 20:13:59 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 2 in the database.
+2021-09-26 20:14:11 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:14:11 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:14:11 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:14:11 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:14:11 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
+2021-09-26 20:14:11 WARN  revature.objectmapper.ObjectCache:69 - Could not update object from the local cache.
+2021-09-26 20:14:11 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 20:14:23 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:14:23 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:14:23 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 2 to the cache.
+2021-09-26 20:14:23 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:14:23 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
+2021-09-26 20:14:23 WARN  revature.objectmapper.ObjectCache:69 - Could not update object from the local cache.
+2021-09-26 20:14:23 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 2 in the database.
+2021-09-26 20:15:52 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:15:55 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:15:56 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:15:56 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:15:56 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:15:56 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:15:56 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:15:56 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:15:58 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:15:58 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:16:57 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:17:05 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:17:07 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:17:07 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:17:07 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:17:07 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:17:07 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:17:07 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:17:09 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:17:09 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:17:43 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:17:47 INFO  revature.objectmapper.ObjectSaver:71 - Succsessfully saved object to the database.
+2021-09-26 20:17:51 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:17:51 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:17:51 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:17:51 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:17:51 INFO  revature.objectmapper.ObjectGetter:82 - Added object with primary key 1 to the cache.
+2021-09-26 20:17:51 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:17:58 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:17:58 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:19:37 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:19:41 INFO  revature.objectmapper.ObjectSaver:70 - Succsessfully saved object to the database.
+2021-09-26 20:19:43 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:19:43 INFO  revature.objectmapper.ObjectGetter:82 - Added object to the cache.
+2021-09-26 20:19:43 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:19:43 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:19:50 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:19:50 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:20:01 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:20:01 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:20:01 INFO  revature.objectmapper.ObjectGetter:82 - Added object to the cache.
+2021-09-26 20:20:01 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:20:01 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 20:20:01 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:20:01 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 20:20:01 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 20:20:05 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:20:05 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:20:17 INFO  revature.objectmapper.ObjectSaver:70 - Succsessfully saved object to the database.
+2021-09-26 20:20:18 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:20:18 INFO  revature.objectmapper.ObjectGetter:82 - Added object to the cache.
+2021-09-26 20:20:18 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:20:18 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:20:20 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:20:20 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:20:21 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:20:21 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:20:23 INFO  revature.objectmapper.ObjectGetter:164 - Succsessfully added all objects from DB into local cache.
+2021-09-26 20:20:23 INFO  revature.objectmapper.ObjectGetter:165 - Succsessfully retrieved objects from the database.
+2021-09-26 20:20:30 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:20:30 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:20:30 INFO  revature.objectmapper.ObjectGetter:82 - Added object to the cache.
+2021-09-26 20:20:30 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:20:30 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 20:20:30 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:20:30 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 20:20:30 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 2 in the database.
+2021-09-26 20:20:32 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:20:32 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:25:11 INFO  revature.objectmapper.TableCreate:36 - Succsessfully added table to the database
+2021-09-26 20:25:19 INFO  revature.objectmapper.ObjectSaver:70 - Succsessfully saved object to the database.
+2021-09-26 20:25:30 INFO  revature.objectmapper.ObjectSaver:70 - Succsessfully saved object to the database.
+2021-09-26 20:25:35 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:25:35 INFO  revature.objectmapper.ObjectGetter:82 - Added object to the cache.
+2021-09-26 20:25:35 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:25:35 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:25:37 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:25:37 INFO  revature.objectmapper.ObjectGetter:82 - Added object to the cache.
+2021-09-26 20:25:37 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:25:37 INFO  revature.objectmapper.ObjectGetter:30 - Retrived an object from the cache
+2021-09-26 20:25:40 INFO  revature.objectmapper.ObjectGetter:164 - Succsessfully added all objects from DB into local cache.
+2021-09-26 20:25:40 INFO  revature.objectmapper.ObjectGetter:165 - Succsessfully retrieved objects from the database.
+2021-09-26 20:25:48 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:25:48 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:25:48 INFO  revature.objectmapper.ObjectGetter:82 - Added object to the cache.
+2021-09-26 20:25:48 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 1 from the database.
+2021-09-26 20:25:48 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 20:25:48 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:25:48 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 20:25:48 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 1 in the database.
+2021-09-26 20:26:03 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:26:03 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:26:03 INFO  revature.objectmapper.ObjectGetter:82 - Added object to the cache.
+2021-09-26 20:26:03 INFO  revature.objectmapper.ObjectGetter:86 - Succsessfully retrieved object with primary key 2 from the database.
+2021-09-26 20:26:03 INFO  revature.objectmapper.ObjectCache:52 - Removed object from the local cache.
+2021-09-26 20:26:03 INFO  revature.objectmapper.ObjectCache:27 - Added object to local cache.
+2021-09-26 20:26:03 INFO  revature.objectmapper.ObjectCache:65 - Succsessfully updated object in the local cache.
+2021-09-26 20:26:03 INFO  revature.objectmapper.ObjectUpdate:75 - Succsessfully updated object with id 2 in the database.
+2021-09-26 20:26:16 INFO  revature.objectmapper.ObjectGetter:39 - Successfully deleted object with id 1 from the database.
+2021-09-26 20:26:16 INFO  revature.objectmapper.ObjectGetter:40 - Successfully deleted object with id 1 from local cache.
+2021-09-26 20:26:16 WARN  revature.objectmapper.ObjectCache:57 - Could not remove object from the local cache.
