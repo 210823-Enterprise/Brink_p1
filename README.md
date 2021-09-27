@@ -25,7 +25,7 @@ To-do list: [`for future iterations`]
 Currently project must be included as local dependency. to do so:
 ```shell
   git clone https://github.com/yassineelbaamrani/Group-6---Project-1.git
-  cd projectOne\project_one_group_six
+  cd Brink_p1
   mvn install
 ```
 Next, place the following inside your project pom.xml file:
