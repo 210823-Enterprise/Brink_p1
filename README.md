@@ -49,12 +49,13 @@ password=postgres
   ### Annotating classes  
   All classes which represent objects in database must be annotated.
 
+   - #### @Entity(table_name = "name of the table")
+      -Indicates that the annotated class contains data to be persisted to a database.
    - #### @Id(columnName="test_id")  
       - Indicates that the Annotated field is ID for the column in the table with the name 'test_id'    
    - #### @Column(columnName="column_name", columnType="[`insert sql data type`]") 
       - Indicates that the Annotated field is a column in the table with the name 'column_name' of a specified data type
-   - #### @Entity(table_name = "name of the table")
-      -Indicates that the annotated class contains data to be persisted to a database.
+
     
   ### User API  
   - #### `public static DIYORM getInstance()`  
