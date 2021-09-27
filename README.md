@@ -55,7 +55,7 @@ password=postgres
    - #### @Column(columnName="column_name", columnType="[`insert sql data type`]") 
       - Indicates that the Annotated field is a column in the table with the name 'column_name' of a specified data type
    - #### @Entity(table_name = "name of the table")
-      -Indicates that the annotated class contains data for a database interaction.
+      -Indicates that the annotated class contains data to be persisted to a database.
     
   ### User API  
   - #### `public static DIYORM getInstance()`  
